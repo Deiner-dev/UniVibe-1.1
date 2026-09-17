@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "406255415234",
+    "firebase_url": "https://univibe-f34df-default-rtdb.firebaseio.com",
+    "project_id": "univibe-f34df",
+    "storage_bucket": "univibe-f34df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406255415234:android:5eb0d1e142fdeda4ac705b",
+        "android_client_info": {
+          "package_name": "com.gamevault.univibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCs47L_ekysq5-fn1vQ2kInBgHnB7Hd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
